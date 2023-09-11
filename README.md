@@ -1,4 +1,4 @@
-# Colorful-X15-Hackistosh
+# Colorful-X15-i5-10300H-Hackistosh
 
 CPU:i5-10300H
 
